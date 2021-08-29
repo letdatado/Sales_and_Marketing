@@ -1,2 +1,2 @@
 # Sales_and_Marketing
-Some analysis on Sales and Marketing Data
+Some analysis I did on Sales and Marketing Data
