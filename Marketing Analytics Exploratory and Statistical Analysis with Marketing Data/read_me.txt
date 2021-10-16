@@ -1,0 +1,1 @@
+All information is given at source: https://www.kaggle.com/jackdaoud/marketing-data
