@@ -1,4 +1,3 @@
-
 Section 01: Exploratory Data Analysis
 - Are there any null values or outliers? How will you wrangle/handle them?
 - Are there any variables that warrant transformations?
