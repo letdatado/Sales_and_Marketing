@@ -32,3 +32,4 @@ The is a CSV file of 2240 observations (customers) with 28 variables related to 
 
 ## Acknowledgements:
 Thank you Dr. Omar Romero-Hernandez for providing this data set
+https://www.linkedin.com/in/omar-romero-hernandez-50a54091/
